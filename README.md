@@ -1,1 +1,1 @@
-# LearningRate.github.io
+# Learning Rate Experiment on MNIST
